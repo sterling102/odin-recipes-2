@@ -1,2 +1,2 @@
-# odin-recipes-2
-Foundation Recipes
+# Beatstore Project
+A beatstore made from scratch
